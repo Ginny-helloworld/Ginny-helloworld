@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ginny Shai</h1>
 <h3 align="center">Transforming data into insights...</h3>
 
-- 🌱 I’m currently learning **Machine learning and AL**
+- 🌱 I’m currently learning **Machine learning and AI**
 
 - 💬 Ask me about **data visualisation and analysis**
 
